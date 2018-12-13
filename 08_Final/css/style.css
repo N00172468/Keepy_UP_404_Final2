@@ -1,0 +1,56 @@
+/*Global CSS Config.*/
+body {
+    font-family: 'Raleway', sans-serif;
+    background: #353535;
+}
+
+/*Carousel*/
+.playbtn1 {
+    color: gold;
+    font-size: 162px;
+    margin-bottom: 400px;
+}
+.playbtn2 {
+    color: gold;
+    font-size: 162px;
+    margin-bottom: 400px;
+}
+.playbtn3 {
+    color: gold;
+    font-size: 162px;
+    margin-bottom: 250px;
+}
+
+/*Soundtracks*/
+.head {
+    color: gold;
+}
+
+.trackHead1 {
+    font-size: 26px;
+    color: #2C4EFC;
+}
+.soundtrack1 {
+    padding-bottom: 20px;
+}
+
+.trackHead2 {
+    font-size: 26px;
+    color: #AE1EFF;
+}
+.soundtrack2 {
+    padding-bottom: 20px;
+}
+
+.trackHead3 {
+    font-size: 26px;
+    color: #0ACA00;
+}
+.soundtrack3 {
+    padding-bottom: 20px;
+}
+
+/*Dividers*/
+.divider {
+    background: gold;
+}
